@@ -1,10 +1,19 @@
 # Agamemnon
 
-## Purpose
+## Introduction
 
 This was the major group project for the COMP1140 course I took at ANU 2019. Using Java and JavaFX, we implemented the board game [Agamemnon](https://ospreypublishing.com/agamemnon),
 designed by Günter Cornett and made by games developer [Osprey Publishing](https://ospreypublishing.com/).
 [Board Game Geek provides a description of Agamemnon](https://boardgamegeek.com/boardgame/193693/agamemnon), including images of the components. Moreover, we had developed an agent to play the game, which used Monte Carlo Simulation. It also happened to come first in the internal elimination tournament held by our very cool course convenors, Professor Steve Blackburn and Dr Josh Milthorpe, winning all games 5-0. Everything from here on is part of the original README written by the course instructors, and you can look at the commit history for the original README.
+
+## Dependencies and How to run
+Java (>=11.0.4) and JavaFX (>=12.0.1).
+
+Try running the jar file with 
+
+`java --module-path ${PATH_TO_FX} --add-modules=javafx.controls,javafx.fxml,javafx.media -jar game.jar`,
+
+but if that does not work just run the Board file located at `src/comp1140/ass2/gui/Board.java`.
 
 ### Game Rules 
 
