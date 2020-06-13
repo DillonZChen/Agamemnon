@@ -6,6 +6,9 @@ This was the major group project for the COMP1140 course I took at ANU 2019. Usi
 designed by Günter Cornett and made by games developer [Osprey Publishing](https://ospreypublishing.com/).
 [Board Game Geek provides a description of Agamemnon](https://boardgamegeek.com/boardgame/193693/agamemnon), including images of the components. Moreover, we had developed an agent to play the game, which used Monte Carlo Simulation. It also happened to come first in the internal elimination tournament held by our very cool course convenors, Professor Steve Blackburn and Dr Josh Milthorpe, winning all games 5-0. Everything from here on is part of the original README written by the course instructors, and you can look at the commit history for the original README.
 
+## Screenshots
+See presentation.pdf in root directory for screenshots.
+
 ## Dependencies and How to run
 Java (>=11.0.4) and JavaFX (>=12.0.1).
 
